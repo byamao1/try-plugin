@@ -2,7 +2,6 @@ package com;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
-import com.google.common.io.Files;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import spi.IDemo;
@@ -12,14 +11,13 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLClassLoader;
-import java.util.Arrays;
 import java.util.List;
 import java.util.ServiceLoader;
 
 /**
  * Description:
  *
- * @author: baiyu
+ * @author: Tom
  * Version: 1.0
  * Create Date Time: 2019-02-25 15:38
  * Update Date Time:

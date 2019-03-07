@@ -29,12 +29,8 @@ Umain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFil
 _main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst,f/5/f58652c986814a2f679d9806c9d09c8432766ece
 ç
 ]main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst,c/0/c0e17af9cae4a50646e5440cba1b0d85f0a59c07
-=
-main/main.iml,f/c/fc378f1721bea6be4103bbde46b8a3ec6b5250e2
 <
 main/pom.xml,f/e/fe73465287b4c5a7d2f727a93d8c815476b83968
-A
-plugin/plugin.iml,6/7/67ef3ab6c549273af47406db52a66b1ac729ae2b
 >
 plugin/pom.xml,9/8/982f281c9f552fa3aa897e95dcbea3fa2a7a4f1f
 \
@@ -46,7 +42,5 @@ A
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
->
-try-plugin.iml,b/d/bd8c19fb8fb9f99b6c2cc41c3267063b49e374a7
 T
 $main/src/test/java/com/DemoTest.java,2/f/2f838307f3b0c6fe222438d1a8f418f43a7c2331
