@@ -57,7 +57,12 @@ public class DemoTest {
     }
 
     private ClassLoader getMyClassLoader(ClassLoader oldCL, String pluginDir) throws MalformedURLException {
-        return new MyClassLoader(pluginDir, oldCL);
+        ImmutableList<String> spiPackages = ImmutableList.<String>builder()
+                .add("spi.")
+                .add("org.slf4j.")
+                .build();
+        ClassLoader parent = getClass().getClassLoader();
+        return new PluginClassLoader(pluginDir, parent, spiPackages);
     }
 
     private ClassLoader getURLClassLoader(ClassLoader oldCL, String pluginDir) throws MalformedURLException {
@@ -96,11 +101,23 @@ public class DemoTest {
 
 }
 
-class MyClassLoader extends URLClassLoader {
+/**
+ * 参考Presto
+ */
+class PluginClassLoader extends URLClassLoader {
 
-    public MyClassLoader(String baseDir, ClassLoader parent) {
-        // 创建时就缓存
-        super(getURLs(baseDir), parent);
+    private final ClassLoader spiClassLoader;
+    // spi加载类加载的包
+    private final List<String> spiPackages;
+
+    public PluginClassLoader(
+            String baseDir,
+            ClassLoader spiClassLoader,
+            Iterable<String> spiPackages) {
+        super(getURLs(baseDir), null);
+
+        this.spiClassLoader = spiClassLoader;
+        this.spiPackages = ImmutableList.copyOf(spiPackages);
     }
 
     private static URL[] getURLs(String baseDir) {
@@ -117,13 +134,34 @@ class MyClassLoader extends URLClassLoader {
     }
 
     @Override
-    public Class<?> loadClass(String name) throws ClassNotFoundException {
-        // Check if class is in the loaded classes cache
-        Class<?> cachedClass = findLoadedClass(name);
-        if (cachedClass != null) {
-            return cachedClass;
-        }
+    protected Class<?> loadClass(String name, boolean resolve) throws ClassNotFoundException {
+        // grab the magic lock
+        synchronized (getClassLoadingLock(name)) {
+            // Check if class is in the loaded classes cache
+            Class<?> cachedClass = findLoadedClass(name);
+            if (cachedClass != null) {
+                return resolveClass(cachedClass, resolve);
+            }
 
-        return super.loadClass(name);
+            // If this is an SPI class, only check SPI class loader
+            if (isSpiClass(name)) {
+                return resolveClass(spiClassLoader.loadClass(name), resolve);
+            }
+
+            // Look for class locally
+            return super.loadClass(name, resolve);
+        }
+    }
+
+    private boolean isSpiClass(String name) {
+        // todo maybe make this more precise and only match base package
+        return spiPackages.stream().anyMatch(name::startsWith);
+    }
+
+    private Class<?> resolveClass(Class<?> clazz, boolean resolve) {
+        if (resolve) {
+            resolveClass(clazz);
+        }
+        return clazz;
     }
 }

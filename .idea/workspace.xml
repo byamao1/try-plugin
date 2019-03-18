@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2179d6c-24f5-486b-adb1-efbb917b3586" name="Default Changelist" comment="remove idea">
-      <change afterPath="$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/OtherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b2179d6c-24f5-486b-adb1-efbb917b3586" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f838307f3b0c6fe222438d1a8f418f43a7c2331" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f838307f3b0c6fe222438d1a8f418f43a7c2331" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67ef3ab6c549273af47406db52a66b1ac729ae2b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd8c19fb8fb9f99b6c2cc41c3267063b49e374a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc378f1721bea6be4103bbde46b8a3ec6b5250e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4e515cdefb1f08d4dc86dedca61ded60c64eb8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd4e515cdefb1f08d4dc86dedca61ded60c64eb8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/jar-plugin/demo-plugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/main/jar-plugin/demo-plugin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/java/spi/IDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/main/java/spi/IDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/src/test/java/com/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/test/java/com/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/classes/spi/IDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/classes/spi/IDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/main-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/main-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/test-classes/com/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/test-classes/com/DemoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/target/test-classes/com/MyClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/main/target/test-classes/com/MyClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/target/classes/com/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/target/classes/com/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/target/demo-plugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/target/demo-plugin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/demo-plugin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,18 +37,59 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugin/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="45" column="21" selection-start-line="41" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/resources/META-INF/services/spi.IDemo">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1342">
+              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="87">
               <caret line="18" column="35" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,21 +99,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/OtherClass.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+            <state relative-caret-position="325">
+              <caret line="962" column="25" selection-start-line="962" selection-start-column="25" selection-end-line="962" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#37807#37808#0" expanded="true" />
+                <element signature="e#37839#37840#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,6 +125,9 @@
       <find>@author: baiyu</find>
       <find>Tom</find>
       <find>sun.misc</find>
+      <find>servicesFile</find>
+      <find>MyClassLoader</find>
+      <find>MyClassLoader``</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,8 +146,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/OtherClass.java" />
         <option value="$PROJECT_DIR$/main/src/main/java/spi/IDemo.java" />
-        <option value="$PROJECT_DIR$/main/src/test/java/com/DemoTest.java" />
         <option value="$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/Demo.java" />
+        <option value="$PROJECT_DIR$/main/src/test/java/com/DemoTest.java" />
       </list>
     </option>
   </component>
@@ -171,10 +186,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1724" />
-    <option name="y" value="51" />
-    <option name="width" value="1670" />
-    <option name="height" value="816" />
+    <option name="x" value="1485" />
+    <option name="y" value="57" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,7 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,6 +216,60 @@
               <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="jar-plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="jar-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-plugin-1.0-SNAPSHOT.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="jar-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-plugin-1.0-SNAPSHOT.jar" type="ab9368bb:PsiFileNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="jar-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-plugin-1.0-SNAPSHOT.jar" type="ab9368bb:PsiFileNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
@@ -253,6 +321,25 @@
               <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="plugin" type="462c0819:PsiDirectoryNode" />
               <item name="demo-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="try-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-plugin" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -260,13 +347,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551959031090" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552702777087" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -400,7 +488,17 @@
       <updated>1551860672407</updated>
       <workItem from="1551860676144" duration="17834000" />
       <workItem from="1551945856666" duration="764000" />
-      <workItem from="1551948878567" duration="2911000" />
+      <workItem from="1551948878567" duration="3173000" />
+      <workItem from="1551959707748" duration="13000" />
+      <workItem from="1551961057662" duration="230000" />
+      <workItem from="1551961354147" duration="730000" />
+      <workItem from="1552011574756" duration="702000" />
+      <workItem from="1552026793725" duration="30000" />
+      <workItem from="1552026829322" duration="51000" />
+      <workItem from="1552544248440" duration="991000" />
+      <workItem from="1552631582498" duration="1229000" />
+      <workItem from="1552637386916" duration="4677000" />
+      <workItem from="1552878789300" duration="1620000" />
     </task>
     <task id="LOCAL-00001" summary="show the code">
       <created>1551945209149</created>
@@ -430,57 +528,65 @@
       <option name="project" value="LOCAL" />
       <updated>1551946455981</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更多展示不同类的类加载器">
+      <created>1551959080086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551959080086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 16m 05s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.08 at 14h 33m 59s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 17m 18s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.08 at 14h 34m 21s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 23m 41s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.16 at 09h 53m 44s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 24m 08s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.16 at 10h 00m 44s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 26m 02s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.16 at 10h 01m 02s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 27m 12s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.16 at 10h 02m 43s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 28m 31s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.18 at 11h 46m 47s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 29m 49s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.18 at 11h 47m 47s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 17h 31m 05s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.18 at 11h 47m 52s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTest_testJar - 2019.03.07 at 19h 37m 50s.xml">
+    <history-entry file="DemoTest_testJar - 2019.03.18 at 11h 49m 20s.xml">
       <configuration name="DemoTest.testJar" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21509000" />
+    <option name="totallyTimeSpent" value="32044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-167" y="23" width="1670" height="816" extended-state="0" />
+    <frame x="1485" y="57" width="1440" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21928747" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.28612304" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281412" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3594848" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5235457" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.24362606" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -497,7 +603,7 @@
       <window_info anchor="bottom" id="Database Changes" order="17" />
       <window_info anchor="bottom" id="Version Control" order="18" />
       <window_info anchor="bottom" id="ANTLR Preview" order="19" />
-      <window_info anchor="bottom" id="Messages" order="20" weight="0.32786885" />
+      <window_info anchor="bottom" id="Messages" order="20" weight="0.32719547" />
       <window_info anchor="right" id="Structure" order="0" weight="0.25" />
       <window_info anchor="right" id="Maven" order="1" weight="0.25429976" />
       <window_info anchor="right" id="Palette" order="2" />
@@ -519,7 +625,8 @@
     <MESSAGE value="clean code" />
     <MESSAGE value="show the codes" />
     <MESSAGE value="remove idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove idea" />
+    <MESSAGE value="更多展示不同类的类加载器" />
+    <option name="LAST_COMMIT_MESSAGE" value="更多展示不同类的类加载器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,6 +636,18 @@
           <line>31</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-defaults>
@@ -600,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/resources/META-INF/services/spi.IDemo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -629,25 +741,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/main/java/com/Main.java" />
-    <entry file="file://$PROJECT_DIR$/plugin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="406" selection-start-line="406" selection-end-line="406" />
         </state>
       </provider>
     </entry>
@@ -668,36 +765,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="21" selection-start-line="24" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/target/classes/com/Demo.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -718,16 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/OtherClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -735,10 +798,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/main-1.0-SNAPSHOT.jar!/META-INF/maven/com.tom/main/pom.properties" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/main-1.0-SNAPSHOT.jar!/META-INF/maven/com.tom/main/pom.xml" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/main-1.0-SNAPSHOT.jar!/META-INF/MANIFEST.MF" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/presto-maven-plugin-0.3.jar!/META-INF/maven/plugin.xml" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/presto-maven-plugin-0.3.jar!/META-INF/provisio/presto-plugin.xml" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/presto-maven-plugin-0.3.jar!/com/facebook/presto/maven/SpiDependencyChecker.class" />
+    <entry file="jar://$PROJECT_DIR$/main/jar-plugin/presto-maven-plugin-0.3.jar!/com/facebook/presto/maven/ServiceDescriptorGenerator.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="962" column="25" selection-start-line="962" selection-start-column="25" selection-end-line="962" selection-end-column="25" />
+          <folding>
+            <element signature="e#37807#37808#0" expanded="true" />
+            <element signature="e#37839#37840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/java/com/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="87">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="45" column="21" selection-start-line="41" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin/demo-plugin/src/main/resources/META-INF/services/spi.IDemo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/test/java/com/DemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1342">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -803,7 +933,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

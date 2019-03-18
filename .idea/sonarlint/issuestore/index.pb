@@ -44,3 +44,5 @@ _main/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 T
 $main/src/test/java/com/DemoTest.java,2/f/2f838307f3b0c6fe222438d1a8f418f43a7c2331
+d
+4plugin/demo-plugin/src/main/java/com/OtherClass.java,5/a/5affa6ca644cbad984b471d68e0d8280cdcbf69c
